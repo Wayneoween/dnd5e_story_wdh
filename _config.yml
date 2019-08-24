@@ -24,7 +24,7 @@ github_username:  Wayneoween
 
 # Build settings
 markdown: kramdown
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
 #  - jekyll-feed
 
