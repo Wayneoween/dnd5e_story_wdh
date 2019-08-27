@@ -25,6 +25,7 @@
     font-weight: 400;
 }
 .post-content > p:first-of-type:first-letter {
+    font-family: $base-font-family;
     font-size: 4em;
     line-height: 1em;
     display: block;
