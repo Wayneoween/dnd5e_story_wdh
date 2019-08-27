@@ -1,5 +1,5 @@
 ---
-title: 'W:DH'
+title: 'Waterdeep: Dragon Heist'
 email: wdh+dnd@cle.ar.it
 description: >
   Wir spielen Dungeons and Dragons - Water Deep Dragon Heist.
@@ -27,3 +27,14 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+collections:
+  glossary:
+    output: false
+  quests:
+    output: false
+    
+# for local font-awesome
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

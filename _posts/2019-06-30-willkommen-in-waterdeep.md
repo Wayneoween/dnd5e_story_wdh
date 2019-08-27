@@ -5,21 +5,22 @@ author: Der Gelehrte Heinrich Faust
 dnd_date: 18. Ches 1492 DR
 ...
 
-Die prächtige Stadt! Die Reise war beschwerlich, doch ich bleibe beflügelt
-vom Tatendrang, vom Suchen nach *mehr* und natürlich von der freudigen
-Erwartung, meinen Freund Minsc wieder zu treffen. Wo er ist, folgen kurz
-darauf auch immer das Abenteuer und die Gefahr.
+Die prächtige Stadt! Die Reise war beschwerlich, doch ich bleibe beflügelt vom
+Tatendrang, vom Suchen nach *mehr* und natürlich von der freudigen Erwartung,
+meinen Freund {% include glossary_link.html title="Minsc" %} wieder zu
+treffen. Wo er ist, folgen kurz darauf auch immer das Abenteuer und die
+Gefahr.
 
-Ich treffe meinen Freund im Yawning Portal, diesem berüchtigtem Lokal. Sonst
-nicht zu übersehen wirkt Minsc unter den anderen Gästen plötzlich nicht mehr
-außergewöhnlich. Hier verkehren Abenteurer, es werden Waffen getragen,
-Harnische und die Gestalten sind von monströser Natur: Groß, kräftig,
-verschlagen und geheimnisvoll. Selbst der Wirt schaut auf ein langes Leben
-von Abenteurerei zurück!
+Ich treffe meinen Freund im {% include glossary_link.html title="Yawning
+Portal" %}, diesem berüchtigtem Lokal. Sonst nicht zu übersehen wirkt *Minsc*
+unter den anderen Gästen plötzlich nicht mehr außergewöhnlich. Hier verkehren
+Abenteurer, es werden Waffen getragen, Harnische und die Gestalten sind von
+monströser Natur: Groß, kräftig, verschlagen und geheimnisvoll. Selbst der
+Wirt schaut auf ein langes Leben von Abenteurerei zurück!
 
 <!-- more -->
 
-Minsc scheint nicht allein, am Tisch des riesigen Waldläufers sitzen noch
+*Minsc* scheint nicht allein, am Tisch des riesigen Waldläufers sitzen noch
 zwei Gestalten, auch diese Leute sind seine Freunde! Er stellt uns vor:
 
 Der eine ein Elf, mit seinen spitzen Ohren und der den Elfen eigenen Aura der
@@ -34,8 +35,8 @@ wie *diese*.</p>
 </div>
 
 
-Der andere ist ein *Tiefling*! Das Abenteuer beginnt schon in der Wirtschaft,
-dieser Kerl hat Hörner, spitze Zähne und einen Schwanz! Faszinierend…
+Der andere ist ein Tiefling! Das Abenteuer beginnt schon in der Wirtschaft,
+dieser Kerl hat Hörner, spitze Zähne und einen Schwanz! Faszinierend...
 
 <div class="infobox char">
 <h3>Melech</h3>

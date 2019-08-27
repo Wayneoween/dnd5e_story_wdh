@@ -1,0 +1,35 @@
+---
+layout: page
+title: Glossar
+---
+
+{% assign items = site.glossary | sort: 'title' %}
+
+{% if items.size > 10 %}
+<h3 class="index">Index</h3>
+
+<div id="index">
+  <ul>
+{%   for item in items %}
+    <li><a href="#{{ item.title | downcase | url_encode }}">{{ item.title }}</a></li>
+{%   endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% for item in items %}
+<h3 id="{{ item.title | downcase | url_encode }}">{{ item.title }}</h3>
+
+{%   if item.icon %}
+<h4 id="{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
+
+{{     item.content }}
+{%   elsif item.type %}
+<h4 id="{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+
+{{     item.content }}
+{%   else %}
+{{     item.content }}
+{%   endif %}
+
+{% endfor %}
