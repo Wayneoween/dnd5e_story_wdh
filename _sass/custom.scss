@@ -1,3 +1,7 @@
+.post-content > h2, .post-content > h3 {
+    position: relative;
+    left: -0.5em;
+}
 /* overwrite upstream theme */
 .post-list > li:not(:first-child) {
     border-top: none !important;
@@ -30,4 +34,44 @@
     line-height: 1em;
     display: block;
     float: left;
+}
+
+.infobox {
+    font-size: 0.8em;
+    width: 66%;
+    padding-left: 1em;
+    color: $grey-color-dark;
+}
+.quest {
+    border-left: 2px solid #800020;
+    h3 {
+        &:before {
+            content: "Quest: ";
+        }
+    }
+    .reward {
+        &:before {
+            content: "Belohnung: ";
+            font-weight: 700;
+        }
+    }
+}
+.hint {
+    border-left: 2px solid #1D769F;
+    h3 {
+        &:before {
+            content: "Hinweis: ";
+        }
+    }
+}
+.char {
+    border-left: 2px solid #1D9F46;
+    h3 {
+        &:before {
+            content: "Mitstreiter: ";
+        }
+    }
+    .class {
+        font-weight: bold;
+    }
 }

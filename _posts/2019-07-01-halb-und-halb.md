@@ -17,11 +17,12 @@ nur aus Bart zu bestehen scheint!
 
 <!-- more -->
 
-> ## Fibblestix
-> **Magier** Gnom (Svirvneblin)
->
-> Ein Gelehrter aus Kerzenburg, furchtbar interessiert an allem messbarem.
-> Wird begleitet von seinem Vertrauten **Peter**, einer kleinen Spinne.
+<div class="infobox char">
+<h3>Fibblestix</h3>
+<p class="class">Magier, Gnom (Svirvneblin)</p>
+<p> Ein Gelehrter aus Kerzenburg, furchtbar interessiert an allem messbarem.
+Wird begleitet von seinem Vertrauten **Peter**, einer kleinen Spinne.</p>
+</div>
 
 Der Herr gibt vor, ausgerechnet hier im Tunnel Maß nehmen zu wollen von
 allerlei messbaren Dingen. Er scheint sich fúr Architektur zu interessieren.

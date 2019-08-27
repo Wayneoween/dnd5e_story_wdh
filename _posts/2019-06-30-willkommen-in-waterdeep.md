@@ -25,35 +25,38 @@ zwei Gestalten, auch diese Leute sind seine Freunde! Er stellt uns vor:
 Der eine ein Elf, mit seinen spitzen Ohren und der den Elfen eigenen Aura der
 nur dünn maskierten Ablehnung denen die keine Elfen sind gegenüber.
 
-> ## Vatras
-> **Ranger**, Elf
->
-> Aufgezogen von Wölfen im Wald in einer Stadt wie dieser nicht in seiner
-> Heimat, doch ist es andererseits auch Waterdeep und es gibt nur wenige Städte
-> wie *diese*.
+<div class="infobox char">
+<h3>Vatras</h3>
+<p class="class">Ranger, Elf</p>
+<p>Aufgezogen von Wölfen im Wald in einer Stadt wie dieser nicht in seiner
+Heimat, doch ist es andererseits auch Waterdeep und es gibt nur wenige Städte
+wie *diese*.</p>
+</div>
 
 
 Der andere ist ein *Tiefling*! Das Abenteuer beginnt schon in der Wirtschaft,
 dieser Kerl hat Hörner, spitze Zähne und einen Schwanz! Faszinierend…
 
-> ## Melech
->**Paladin** Tiefling
->
-> Nicht der jüngste, doch hat er sich nun aus seinem klösterlichen Leben
-> verabschiedet um das Abenteuer in der Welt zu suchen.
+<div class="infobox char">
+<h3>Melech</h3>
+<p class="class">Paladin, Tiefling</p>
+<p>Nicht der jüngste, doch hat er sich nun aus seinem klösterlichen Leben
+verabschiedet um das Abenteuer in der Welt zu suchen.</p>
+</div>
 
 Auch an meiner Person scheint Interesse zu sein, passe ich doch von meiner
 wenig kriegerischen Gestalt nun gar nicht in die Runde.
 
-> ## Heinrich
-> **Warlock** Mensch
->
-> Ein älterer Herr, gelehrt und wissbegierig. Mal wirkt er für sein Alter
-> gebrechlich und langsam, im nächsten Moment wohnt die Jugend im alternden
-> Körper. Seinen Gehstock trägt er stets bei sich, doch scheint er hin und wieder
-> zu vergessen, ihn zu brauchen
+<div class="infobox char">
+<h3>Heinrich</h3>
+<p class="class">Warlock, Mensch</p>
+<p>Ein älterer Herr, gelehrt und wissbegierig. Mal wirkt er für sein Alter
+gebrechlich und langsam, im nächsten Moment wohnt die Jugend im alternden
+Körper. Seinen Gehstock trägt er stets bei sich, doch scheint er hin und wieder
+zu vergessen, ihn zu brauchen.</p>
+</div>
 
-## Rauhe sitten
+## Rauhe Sitten
 
 Kaum heben wir unser Bier an, beginnt auch schon das Schauspiel, vor dem man
 in solchen Tavernen stets auf der Hut ist: Ein Gerangel, die Fäuste fliegen!
@@ -78,9 +81,11 @@ In der kurzen Zeit, die ich in Waterdeep, nein, in dieser Kneipe zubringe,
 erfahre ich mehr als in den letzten Jahren voller Langeweile! Das Abenteuer
 hat mir gefehlt!
 
-> #### Trolle regenerieren
-> Um einem Troll endgültig den Gar aus zu machen, ist er mit Feuer oder Säure
-> zu vernichten, will man ihn nicht nach kurzer Zeit erneut bekämpfen müssen.
+<div class="infobox hint">
+<h3>Trolle regenerieren</h3>
+<p>Um einem Troll endgültig den Gar aus zu machen, ist er mit Feuer oder Säure
+zu vernichten, will man ihn nicht nach kurzer Zeit erneut bekämpfen müssen.</p>
+</div>
 
 
 ## Vermisst in Waterdeep
@@ -94,13 +99,14 @@ und Zaudern auch gleich sein Anliegen. Hier wird nicht lange gefackelt, hier
 sind wir Abenteurer und gibt es etwa zu erledigen, wird zuvor nicht lange um
 den Brei getanzt!
 
-> #### Quest: Floon Blagmaar suchen
-> Ein Mann in seinem besten Alter, mit rot-blondem Haar und prinzlichen
-> Gewändern, daran nicht zu verkennen. Zuletzt gesehen im *Skewered Dragon* ist
-> er nun vermisst.
->
-> **Belohnung** 10 Goldene Drachen pp. sofort,
-> 100 goldene Drachen pp. nach Erledigung des Auftrags.
+<div class="infobox quest">
+<h3>Floon Blagmaar suchen</h3>
+<p>Ein Mann in seinem besten Alter, mit rot-blondem Haar und prinzlichen
+Gewändern, daran nicht zu verkennen. Zuletzt gesehen im *Skewered Dragon* ist
+er nun vermisst.</p>
+<p class="reward">10 Goldene Drachen pp. sofort,<br />100 goldene Drachen pp. nach
+Erledigung des Auftrags.</p>
+</div>
 
 Meine neuen Freunde und ich zögern ebenso wenig und machen uns sogleich auf,
 den vermissten Freund des Volo zu suchen. Nicht weit sind wir gekommen, wird
@@ -120,11 +126,6 @@ von Waterdeep vor etwa drei Tagen von etwa fünf finsteren Gestalten
 den Docks, das von außen von einer Schlange geziert wird. Wir machen uns auf
 den Weg!
 
-<img
-src='https://vignette.wikia.nocookie.net/forgottenrealms/images/4/49/5e_Zhentarim_Symbol.png/revision/latest/scale-to-width-down/297?cb=20181102094601' />
-
-Wappen der *Zhentarim*
-
 In das Lagerhaus führt kein Weg hinein, die Tür ist versperrt und auf unser
 naives Klopfen wird uns nicht geöffnet. Wir sehen uns um, niemand scheint
 greifbar für Erkundigungen. Was liegt also näher als zurück zum wunderlichen
@@ -143,16 +144,11 @@ angreifen. Sie scheinen ebenfalls nicht hier herein zu gehören, zumindest
 lassen die Spuren des vorherigen Kampfes keinen anderen Schluss zu. Wir
 überwältigen drei und fesseln einen.
 
-<img src="https://vignette.wikia.nocookie.net/forgottenrealms/images/4/42/Xanathar%27sThieves%27GuildSymbol.jpg/revision/latest?cb=20140610025505" style="width:95px; margin: 0 auto;" />
-
-Wappen von *Xanathars Gilde*
-
 Nebst drei toter Vögel gibt es hier noch sieben tote Männer, die eine
-Tättowierung eines Kreises mit zehn Speichen ziert sowie fünf tote Männer,
-auf die bestens die Beschreibung der Entführer passt. Schuld sind wir nur am
-Tod der Vögel, alle anderen waren schon so, als wir hier herein kamen. Und so
-wirklich Schuld tragen wir am Tod der Vögel auch nicht, schließlich haben
-diese
+Tättowierung eines Kreises mit zehn Speichen ziert sowie fünf tote Männer, auf
+die bestens die Beschreibung der Entführer passt. Schuld sind wir nur am Tod
+der Vögel, alle anderen waren schon so, als wir hier herein kamen. Und so
+wirklich Schuld tragen wir am Tod der Vögel auch nicht, schließlich haben diese
 *angefangen*.
 
 Der gefesselte Vogel stellt sich nicht als Meister des Diskurs und der
@@ -169,8 +165,10 @@ vielleicht an den *Stone of Golorr* herankommen könnte, der sich im Besitz
 seines Vaters befindet. Er vermutet, wohin sie *Floon* gebracht haben:
 
 
-> #### Hinweis: Floon Blagmaar suchen
-> Floon ist in ein *underground lair* verschleppt worden.
+<div class="infobox hint">
+<h3>Floon Blagmaar suchen</h3>
+<p>Floon ist in ein *underground lair* verschleppt worden.</p>
+</div>
 
 ## Recht und Ordnung
 

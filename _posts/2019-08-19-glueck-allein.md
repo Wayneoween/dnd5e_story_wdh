@@ -47,10 +47,11 @@ Einrichtung. Wir müssen uns wohl auch noch jemanden kommen lassen, der ein
 paar Löcher stopft und die Schlösser für uns austauscht. Die Katze scheint
 gedungen, eine Botschaft zu übermitteln:
 
-> #### Quest: Eine kleine Vogelscheuche
->Die Katze lädt Vatras im Namen der *Emerald Enclave* ein, zu deren Niederlassung zu kommen. Wir sollen eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.
->
->**Fraktion**: Vatras, der Waldläufer, könnte beitreten.
+<div class="infobox quest">
+<h3>Eine kleine Vogelscheuche</h3>
+<p>Die Katze lädt Vatras im Namen der *Emerald Enclave* ein, zu deren Niederlassung zu kommen. Wir sollen eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.</p>
+<p class="reward">Etwas Gold, Vatras könnte der *Emerald Enclave* beitreten</p>
+</div>
 
 Weil wir offenbar nichts besseres zu tun haben als dahergelaufenen Tieren zu
 folgen, die uns Aufgaben vermitteln, folgt Vatras der Katze zum Gärtner. Der
@@ -99,16 +100,17 @@ Berg erklimmen und dort mit einem Mönch sprechen, der scheinbar trotz seiner
 Abwesenheit und schweren Erreichbarkeit über die stets neuesten Informationen
 und Gerüchte zu verfügen scheint.
 
-> #### Quest: Den Eremiten um Weisheit bitten
-> Wir sollen für die Erzmagierin einen Mönch nach seiner Einschätzung in Sachen
-> Gefahr und Sicherheit für Waterdeep fragen. Dazu sollen wir seinen Berg
-> erklimmen.
->
->**Fraktion**: Melech  könnte beitreten.
+<div class="infobox quest">
+<h3>Den Eremiten um Weisheit bitten</h3>
+<p>Wir sollen für die Erzmagierin einen Mönch nach seiner Einschätzung in Sachen
+Gefahr und Sicherheit für Waterdeep fragen. Dazu sollen wir seinen Berg
+erklimmen.</p>
+<p class="reward">Etwas Gold, Melech könnte der *Grey Hand* beitreten</p>
+</div>
 
 Das klingt sehr anstrengend und nach einer Aufgabe für die jungen Leute und
 ohnehin ist der Tower auch noch viel interessanter. Mit Vatras und
-Fibblestixx bleibe ich also zurück, während Melech die beschwerliche Reise
+Fibblestix bleibe ich also zurück, während Melech die beschwerliche Reise
 zum Weisen auf dem Gipfel auf sich nimmt. Immerhin ist es ja auch *seine*
 Einladung und mit einem Mönch sprechen ist nun auch nicht das spannendeste.
 
@@ -127,3 +129,43 @@ Auftraggeberin scheint allerdings zufrieden und entlohnt uns wie versprochen.
 Mit unserem neu gefundenen Reichtum wollen wir uns ein paar schöne Möbel aus
 zweiter Hand kaufen. Vielleicht ein Sofa, ein paar Sessel -- vor meinem Auge
 gestaltet sich die gemütliche Unterkunft schon wie von allein.
+
+Diesmal kommt ein kleiner Vogel geflogen, auf papier'nen Flügeln! Auf seinen
+Schwingen trägt er eine Botschaft. Höchst interessant -- doch leider verliert
+er beim Entfalten der Nachricht seine Magie. Uns bleibt also nur die Einladung
+von *Raenar* - wir sollen seinen Freund *Mert* in der Oper besuchen, noch heute
+Abend! Vielleicht ist dieser *Mert* ja ein etwas seriöserer und
+ernstzunehemenderer Charakter als der extravagante *Volo*.
+
+In neuen, schicken Klamotten gehen wir zur Oper. Anstelle von Eintrittskarten
+zeigen wir den aufgefalteten Vogel vor, das genügt dem Herrn am Eingang. Waffen
+und Rüstungen allert Art sind nicht gestattet, also müssen wir den ganzen
+Melech draußen lassen. Wie ich ihn kenne fühlt er sich bestimmt unter
+seinesgleichen in einer Wirtschaft wohler als unter meinesgleichen in der Oper!
+
+Wir hören den *Fall der Tiamat*, wie uns gesagt wird im riesischen Original.
+Eine großartige Vorstellung, auch wenn ich nichts davon verstehe. Aber darum
+geht es in der Oper auch nur selten. In der ersten Pause begeben wir uns dann
+in die private Loge des *Mert*.
+
+*Mert* ist kein seriöserer oder ernstzunehmenderer Charakter als Volo:
+
+<div class="infobox quest">
+<h3>Pferde Fragen</h3>
+<p>Wir sollen ein sprechendes Pferd über die aktuellen Pläne und Machenschaften
+der *Zhentarim* befragen.</p>
+<p class="reward">Etwas Gold vermutlich. Fibblestix und Heinrich können den
+*Harfnern* beitreten.</p>
+</div>
+
+Natürlich war auch diese Einladung nicht nur ein freundlicher Besuch in der
+Oper, auch hier gibt es wieder ein paar Botengänge zu erledigen. Diesmal für
+die *Harfner*. Wir sollen ein sprechendes Pferd aufsuchen. Das Pferd kann man
+wohl mieten oder zumindest leihen, also kommt es viel herum und hat wechselnde
+Passagiere. Ein idealer Spion wohl. Reitet das Pferd ausreichend langsam, wird
+den Reitern ausreichend langweilig und sie beginnen Unterhaltungen, aus denen
+das schlaue Pferd einige Lektionen lernen kann!
+
+So etwa auch, dass ein Elf und sein Handlanger, ein Halb-Ork, häufig auf der
+Suche nach neuen Spionen sind, mit denen sie die Unterschlupfe und
+Machenschaften von *Xanathar's Gilde* aushorchen könnten.
