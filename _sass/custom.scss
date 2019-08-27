@@ -1,3 +1,25 @@
+/* overwrite upstream theme */
+.post-list > li:not(:first-child) {
+    border-top: none !important;
+    padding-top: 2em !important;
+}
+/* paper like design, it's sooo 2011 */
+.post-list > li, article {
+    background-color: #f0f0f0;
+    padding: 2em;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+    &:before, &:after {
+        width: 40%;
+        height: 10px;
+        content: ' ';
+        left: 12px;
+        bottom: 12px;
+        background: transparent;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        z-index: -1;
+        transform: skew(-5deg) rotate(-5deg);
+    }
+}
 .post-content p {
     font-family: $content-font-family;
     font-weight: 400;
