@@ -18,6 +18,7 @@ title: Glossar
 {% endif %}
 
 {% for item in items %}
+<div class="glossary-item">
 <h3 id="{{ item.title | downcase | url_encode }}">{{ item.title }}</h3>
 
 {%   if item.icon %}
@@ -31,5 +32,6 @@ title: Glossar
 {%   else %}
 {{     item.content }}
 {%   endif %}
+</div>
 
 {% endfor %}

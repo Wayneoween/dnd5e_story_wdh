@@ -75,3 +75,16 @@
     }
 }
 
+.glossary-item {
+    h3, h4 {
+        display: inline;
+        position: relative;
+        left: -0.5em;
+    }
+    h4 {
+        color: $grey-color;
+        &:before {
+            content: ' • ';
+        }
+    }
+}
