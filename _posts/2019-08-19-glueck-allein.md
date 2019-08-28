@@ -151,11 +151,11 @@ in die private Loge des *Mert*.
 *Mert* ist kein seriöserer oder ernstzunehmenderer Charakter als Volo:
 
 <div class="infobox quest">
-<h3>Pferde Fragen</h3>
+<h3>Pferde fragen</h3>
 <p>Wir sollen ein sprechendes Pferd über die aktuellen Pläne und Machenschaften
-der *Zhentarim* befragen.</p>
+der <emph>Zhentarim</emph> befragen.</p>
 <p class="reward">Etwas Gold vermutlich. Fibblestix und Heinrich können den
-*Harfnern* beitreten.</p>
+<strong>Harfnern</strong> beitreten.</p>
 </div>
 
 Natürlich war auch diese Einladung nicht nur ein freundlicher Besuch in der

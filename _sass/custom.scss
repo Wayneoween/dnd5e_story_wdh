@@ -39,41 +39,39 @@
 }
 
 .infobox {
-    font-size: 0.8em;
-    width: 66%;
-    padding-left: 1em;
-    color: $grey-color-dark;
-}
-.quest {
-    border-left: 2px solid #800020;
-    h3 {
-        &:before {
-            content: "Quest: ";
-        }
-    }
-    .reward {
-        &:before {
-            content: "Belohnung: ";
-            font-weight: 700;
-        }
-    }
-}
-.hint {
-    border-left: 2px solid #1D769F;
-    h3 {
-        &:before {
-            content: "Hinweis: ";
-        }
-    }
+    border-bottom-right-radius: 60px 5px;
+    box-shadow: 0px 6px 12px $grey-color;
+    padding: 1em;
+    transform: rotate(4deg);
+    margin: 3em;
 }
 .char {
-    border-left: 2px solid #1D9F46;
-    h3 {
-        &:before {
-            content: "Mitstreiter: ";
-        }
+    background: #768bb0; /* Old browsers */
+    background: linear-gradient(135deg, #768bb0 81%,#768bb0 82%,#768bb0 82%,#768bb0 100%);
+    h3:before {
+        content: 'Mitstreiter: ';
     }
     .class {
         font-weight: bold;
     }
 }
+
+.hint {
+    background: #d29d9d; /* Old browsers */
+    background: linear-gradient(135deg, #d29d9d 81%,#d29d9d 82%,#d29d9d 82%,#d29d9d 100%);
+    h3:before {
+        content: 'Hinweis: ';
+    }
+}
+.quest {
+    background: #ffff88;
+    background: linear-gradient(135deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+    h3:before {
+        content: 'Quest: ';
+    }
+    .reward:before {
+        content: 'Belohnung: ';
+        font-weight: bold;
+    }
+}
+
