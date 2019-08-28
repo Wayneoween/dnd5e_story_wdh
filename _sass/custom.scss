@@ -95,3 +95,32 @@
         }
     }
 }
+
+#index {
+    > ul {
+      column-count: 3;
+      -webkit-columns: 3;
+      -moz-columns: 3;
+      columns: 3;
+      -webkit-column-gap: 5em;
+      -moz-column-gap: 5em;
+      column-gap: 5em;
+      -webkit-column-rule-width: 4px;
+      -moz-column-rule-width: 4px;
+      column-rule-width: 4px;
+      -webkit-column-rule-color: #e4aaa3;
+      -moz-column-rule-color: #e4aaa3;
+      column-rule-color: #e4aaa3;
+      -webkit-column-rule-style: dotted;
+      -moz-column-rule-style: dotted;
+      column-rule-style: dotted;
+  
+      > li {
+        display: inline-block;
+      }
+  
+      > li::first-letter {
+        font-weight: bold;
+      }
+    }
+}

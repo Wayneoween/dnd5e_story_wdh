@@ -49,14 +49,18 @@ gedungen, eine Botschaft zu übermitteln:
 
 <div class="infobox quest">
 <h3>Eine kleine Vogelscheuche</h3>
-<p>Die Katze lädt Vatras im Namen der *Emerald Enclave* ein, zu deren Niederlassung zu kommen. Wir sollen eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.</p>
-<p class="reward">Etwas Gold, Vatras könnte der *Emerald Enclave* beitreten</p>
+
+<p>Die Katze lädt Vatras im Namen der {% include glossary_link.html
+title="Emerald Enclave" %} ein, zu deren Niederlassung zu kommen. Wir sollen
+eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.</p>
+
+<p class="reward">Etwas Gold, Vatras könnte der Emerald Enclave beitreten</p>
 </div>
 
 Weil wir offenbar nichts besseres zu tun haben als dahergelaufenen Tieren zu
 folgen, die uns Aufgaben vermitteln, folgt Vatras der Katze zum Gärtner. Der
 hat einen Vorschlag für uns: Vatras wäre doch ein tolles Mitglied in ihrer
-Fraktion des *grünen Friedens* und überhaupt sollen wir doch erst mal so eine
+Fraktion des grünen Friedens und überhaupt sollen wir doch erst mal so eine
 lästige Vogelscheuche vor den Toren der Stadt entfernen, die dort die
 ortsansäßigen Landwirte terrorisiert. Es winke auch etwas Gold. Wieviel genau
 ist noch Gegenstand talentierter Verhandlungen, wir hätten die Aufgabe aber
@@ -84,15 +88,16 @@ erholen können.
 
 ### Heimsuchung 2: Werbung im Traum
 
-Auch des nächstens sind wir nicht davor gefeiet, dass um unsere
-Aufmerksamkeit und Zeit geworben wird. Eine Frauenstimme fordert Melech auf,
-samt seiner Mitstreiter (das müssen wir sein) zum *Blackstaff Tower* zu
-kommen. Auf dem Weg dort hin lassen wir uns aber nicht nehmen, unsere
-verdiente Belohnung mit der Emerald Enclave neu zu verhandeln und direkt
-einzustreichen.
+Auch des nächstens sind wir nicht davor gefeiet, dass um unsere Aufmerksamkeit
+und Zeit geworben wird. Eine Frauenstimme fordert Melech auf, samt seiner
+Mitstreiter (das müssen wir sein) zum {% include glossary_link.html
+title="Blackstaff Tower" %} zu kommen. Auf dem Weg dort hin lassen wir uns
+aber nicht nehmen, unsere verdiente Belohnung mit der Emerald Enclave neu zu
+verhandeln und direkt einzustreichen.
 
-Die Einladung kommt von *Vajra Blackstaff*, einer Nachfolgerin des berühmten
-*Khelben Blackstaff*, über den ich schon das eine oder andere gelesen habe.
+Die Einladung kommt von {% include glossary_link.html title="Vajira Blackstaff"
+%}, einer Nachfolgerin des berühmten *Khelben Blackstaff*, über den ich schon
+das eine oder andere gelesen habe.
 
 Natürlich folgen wir auch dieser Einladung, immerhin sind wir stets auf der
 Suche nach Abenteuer, neuen Erfahrungen und noch mehr Gold. Wir sollen einen
@@ -102,10 +107,13 @@ und Gerüchte zu verfügen scheint.
 
 <div class="infobox quest">
 <h3>Den Eremiten um Weisheit bitten</h3>
-<p>Wir sollen für die Erzmagierin einen Mönch nach seiner Einschätzung in Sachen
-Gefahr und Sicherheit für Waterdeep fragen. Dazu sollen wir seinen Berg
+
+<p>Wir sollen für die Erzmagierin einen Mönch nach seiner Einschätzung in
+Sachen Gefahr und Sicherheit für Waterdeep fragen. Dazu sollen wir seinen Berg
 erklimmen.</p>
-<p class="reward">Etwas Gold, Melech könnte der *Grey Hand* beitreten</p>
+
+<p class="reward">Etwas Gold, Melech könnte den {% include glossary_link.html
+title="Gray Hands" %} beitreten</p>
 </div>
 
 Das klingt sehr anstrengend und nach einer Aufgabe für die jungen Leute und
@@ -133,9 +141,11 @@ gestaltet sich die gemütliche Unterkunft schon wie von allein.
 Diesmal kommt ein kleiner Vogel geflogen, auf papier'nen Flügeln! Auf seinen
 Schwingen trägt er eine Botschaft. Höchst interessant -- doch leider verliert
 er beim Entfalten der Nachricht seine Magie. Uns bleibt also nur die Einladung
-von *Raenar* - wir sollen seinen Freund *Mert* in der Oper besuchen, noch heute
-Abend! Vielleicht ist dieser *Mert* ja ein etwas seriöserer und
-ernstzunehemenderer Charakter als der extravagante *Volo*.
+von {% include glossary_link.html name="Renaer Neverember" title="Renaer" %} -
+wir sollen seinen Freund *Mert* in der Oper besuchen, noch heute Abend!
+Vielleicht ist dieser Mert ja ein etwas seriöserer und ernstzunehemenderer
+Charakter als der extravagante {% include glossary_link.html
+name="Volothamp Geddarm" title="Volo" %}.
 
 In neuen, schicken Klamotten gehen wir zur Oper. Anstelle von Eintrittskarten
 zeigen wir den aufgefalteten Vogel vor, das genügt dem Herrn am Eingang. Waffen
@@ -146,21 +156,24 @@ seinesgleichen in einer Wirtschaft wohler als unter meinesgleichen in der Oper!
 Wir hören den *Fall der Tiamat*, wie uns gesagt wird im riesischen Original.
 Eine großartige Vorstellung, auch wenn ich nichts davon verstehe. Aber darum
 geht es in der Oper auch nur selten. In der ersten Pause begeben wir uns dann
-in die private Loge des *Mert*.
+in die private Loge des Mert.
 
-*Mert* ist kein seriöserer oder ernstzunehmenderer Charakter als Volo:
+Mert ist kein seriöserer oder ernstzunehmenderer Charakter als Volo:
 
 <div class="infobox quest">
 <h3>Pferde fragen</h3>
-<p>Wir sollen ein sprechendes Pferd über die aktuellen Pläne und Machenschaften
-der <emph>Zhentarim</emph> befragen.</p>
-<p class="reward">Etwas Gold vermutlich. Fibblestix und Heinrich können den
-<strong>Harfnern</strong> beitreten.</p>
+
+<p>Wir sollen ein sprechendes Pferd über die aktuellen Pläne und
+Machenschaften der {% include glossary_link.html title="Zhentarim" %}
+befragen.</p>
+
+<p class="reward">Etwas Gold vermutlich. Fibblestix und Heinrich können den {%
+include glossary_link.html title="Harfnern" name="Harfner" %} beitreten.</p>
 </div>
 
 Natürlich war auch diese Einladung nicht nur ein freundlicher Besuch in der
 Oper, auch hier gibt es wieder ein paar Botengänge zu erledigen. Diesmal für
-die *Harfner*. Wir sollen ein sprechendes Pferd aufsuchen. Das Pferd kann man
+die Harfner. Wir sollen ein sprechendes Pferd aufsuchen. Das Pferd kann man
 wohl mieten oder zumindest leihen, also kommt es viel herum und hat wechselnde
 Passagiere. Ein idealer Spion wohl. Reitet das Pferd ausreichend langsam, wird
 den Reitern ausreichend langweilig und sie beginnen Unterhaltungen, aus denen
@@ -168,4 +181,5 @@ das schlaue Pferd einige Lektionen lernen kann!
 
 So etwa auch, dass ein Elf und sein Handlanger, ein Halb-Ork, häufig auf der
 Suche nach neuen Spionen sind, mit denen sie die Unterschlupfe und
-Machenschaften von *Xanathar's Gilde* aushorchen könnten.
+Machenschaften von {% include glossary_link.html name="Xanathars Gilde"
+title="Xanathar's Gilde" %} aushorchen könnten.

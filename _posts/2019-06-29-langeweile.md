@@ -19,8 +19,8 @@ Wie gerufen kommt mir der Brief meines alten Freundes {% include
 glossary_link.html title="Minsc" %}, den ich noch von meiner Reise nach
 Rashemen kenne. Es war nicht leicht, sein Begehren zu verstehen; der Brief
 wirkt, als hätte {% include glossary_link.html title="Boo" %} ihn geschrieben
-und *Minsc* diktiert. Weiser wäre gewesen, es andersherum zu versuchen. Ich
-bin mir nun aber fast sicher, dass er mich in {% include glossary_link.html
+und Minsc diktiert. Weiser wäre gewesen, es andersherum zu versuchen. Ich bin
+mir nun aber fast sicher, dass er mich in {% include glossary_link.html
 title="Waterdeep" %} treffen möchte, im {% include glossary_link.html
 title="Yawning Portal" %} — ausgerechnet! Diese Stadt und dann noch dieses
 berüchtigte Lokal. Wenn sich darunter *wirklich* ein Portal befindet, will ich
