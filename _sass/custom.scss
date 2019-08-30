@@ -85,14 +85,9 @@
 .glossary-item {
     h3, h4 {
         display: inline;
-        position: relative;
-        left: -0.5em;
     }
     h4 {
         color: $grey-color;
-        &:before {
-            content: ' • ';
-        }
     }
 }
 
@@ -114,11 +109,9 @@
       -webkit-column-rule-style: dotted;
       -moz-column-rule-style: dotted;
       column-rule-style: dotted;
-  
       > li {
         display: inline-block;
       }
-  
       > li::first-letter {
         font-weight: bold;
       }

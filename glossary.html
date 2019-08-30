@@ -5,33 +5,35 @@ title: Glossar
 
 {% assign items = site.glossary | sort: 'title' %}
 
-{% if items.size > 10 %}
-<h3 class="index">Index</h3>
-
-<div id="index">
-  <ul>
-{%   for item in items %}
-    <li><a href="#{{ item.title | downcase | url_encode }}">{{ item.title }}</a></li>
-{%   endfor %}
-  </ul>
-</div>
-{% endif %}
-
 {% for item in items %}
 <div class="glossary-item">
-<h3 id="{{ item.title | downcase | url_encode }}">{{ item.title }}</h3>
+  <details id="{{ item.title | downcase | url_encode }}">
+    <summary >
+      <h3>{{ item.title }}</h3>
 
-{%   if item.icon %}
-<h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
+    {%   if item.icon %}
+    <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
 
-{{     item.content }}
-{%   elsif item.type %}
-<h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+    {{     item.content }}
+    {%   elsif item.type %}
+    <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+    </summary>
 
-{{     item.content }}
-{%   else %}
-{{     item.content }}
-{%   endif %}
+    {{     item.content }}
+    {%   else %}
+    {{     item.content }}
+    {%   endif %}
+  </details>
 </div>
 
+  <script type="text/javascript" language="javascript">
+    function openGlossaryItem() {
+      current_item = document.getElementById(location.hash.substr(1));
+      if (current_item != null) {
+        current_item.setAttribute('open', 'open');
+      }
+    }
+    window.onhashchange = openGlossaryItem;
+    openGlossaryItem()
+  </script>
 {% endfor %}
