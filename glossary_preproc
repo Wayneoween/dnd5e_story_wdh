@@ -1,0 +1,48 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# This script will take a post filename as the first and only argument
+# What it will do is loop through all files in _glossary/ and replace
+# mentions in the post with links to the glossary page. This script aims to
+# produce idempotent results.
+#
+require 'yaml'
+require 'active_support/core_ext/string/inflections'
+
+# just one glossary item
+class GlossaryItem
+  attr_reader :fname, :title, :link_part, :slug
+
+  def initialize(fname)
+    return unless File.exist? fname
+
+    @fname = fname
+    fcontent = YAML.load_file(fname)
+    @slug = fname.gsub('_glossary/', '')\
+                 .gsub(/\.md$/, '')\
+                 .gsub('_', ' ')\
+                 .titleize
+    @title = fcontent['title'] ||= @slug
+    @link_part = "##{@title.downcase.gsub(' ', '+')}"
+  end
+end
+
+all_items = Dir.glob('_glossary/*.md').map do |item_fname|
+  GlossaryItem.new(item_fname)
+end
+
+markdown_fname = ARGV.first
+markdown_content = ARGF.read
+all_items.each do |glossary_term|
+  markdown_content.gsub!(
+    /\b(?!<")#{glossary_term.title}(?!")\b/,
+    "{% include glossary_link.html title=\"#{glossary_term.title}\" %}"
+  )
+  markdown_content.gsub!(
+    /\b(?!<")#{glossary_term.slug}(?!")\b/,
+    "{% include glossary_link.html title=\"#{glossary_term.slug}\" name=\"#{glossary_term.title}\" %}"
+  )
+end
+File.open(markdown_fname, 'w') do |output_file|
+  output_file.write(markdown_content)
+end
