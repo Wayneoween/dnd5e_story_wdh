@@ -25,15 +25,29 @@ title: Glossar
     {%   endif %}
   </details>
 </div>
-
-  <script type="text/javascript" language="javascript">
-    function openGlossaryItem() {
-      current_item = document.getElementById(location.hash.substr(1));
-      if (current_item != null) {
-        current_item.setAttribute('open', 'open');
-      }
-    }
-    window.onhashchange = openGlossaryItem;
-    openGlossaryItem()
-  </script>
 {% endfor %}
+<script type="text/javascript" language="javascript">
+  mobile_browsers = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS/i
+
+  function openGlossaryItem() {
+    current_item = document.getElementById(location.hash.substr(1));
+    if (current_item != null) {
+      current_item.setAttribute('open', 'open');
+    }
+  }
+  if (mobile_browsers.test(navigator.userAgent) != true) {
+    for (glossary_item of document.getElementsByTagName('details')) {
+      glossary_item.setAttribute('open', 'open')
+    }
+  } else {
+    index_block = document.getElementById('index');
+    index_block.style.display = 'none';
+  }
+  if (location.hash != "") {
+    openGlossaryItem()
+  }
+  window.onhashchange = openGlossaryItem;
+  for (internal_link of document.querySelectorAll('.glossary-item a')) {
+    internal_link.onclick = function() { openGlossaryItem(); }
+  }
+</script>
