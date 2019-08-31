@@ -54,6 +54,7 @@ title: Glossar
   }
   if (location.hash != "") {
     openGlossaryItem()
+    location.href = location.hash
   }
   window.onhashchange = openGlossaryItem;
   for (internal_link of document.querySelectorAll('.glossary-item a')) {
