@@ -54,7 +54,7 @@ gedungen, eine Botschaft zu übermitteln:
 title="Emerald Enclave" %} ein, zu deren Niederlassung zu kommen. Wir sollen
 eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.</p>
 
-<p class="reward">Etwas Gold, Vatras könnte der Emerald Enclave beitreten</p>
+<p class="reward">Etwas Gold, Vatras könnte der {% include glossary_link.html title="Emerald Enclave" %} beitreten</p>
 </div>
 
 Weil wir offenbar nichts besseres zu tun haben als dahergelaufenen Tieren zu
@@ -92,7 +92,7 @@ Auch des nächstens sind wir nicht davor gefeiet, dass um unsere Aufmerksamkeit
 und Zeit geworben wird. Eine Frauenstimme fordert Melech auf, samt seiner
 Mitstreiter (das müssen wir sein) zum {% include glossary_link.html
 title="Blackstaff Tower" %} zu kommen. Auf dem Weg dort hin lassen wir uns
-aber nicht nehmen, unsere verdiente Belohnung mit der Emerald Enclave neu zu
+aber nicht nehmen, unsere verdiente Belohnung mit der {% include glossary_link.html title="Emerald Enclave" %} neu zu
 verhandeln und direkt einzustreichen.
 
 Die Einladung kommt von {% include glossary_link.html title="Vajira Blackstaff"
@@ -109,7 +109,7 @@ und Gerüchte zu verfügen scheint.
 <h3>Den Eremiten um Weisheit bitten</h3>
 
 <p>Wir sollen für die Erzmagierin einen Mönch nach seiner Einschätzung in
-Sachen Gefahr und Sicherheit für Waterdeep fragen. Dazu sollen wir seinen Berg
+Sachen Gefahr und Sicherheit für {% include glossary_link.html title="Waterdeep" %} fragen. Dazu sollen wir seinen Berg
 erklimmen.</p>
 
 <p class="reward">Etwas Gold, Melech könnte den {% include glossary_link.html
@@ -158,7 +158,7 @@ Eine großartige Vorstellung, auch wenn ich nichts davon verstehe. Aber darum
 geht es in der Oper auch nur selten. In der ersten Pause begeben wir uns dann
 in die private Loge des Mert.
 
-Mert ist kein seriöserer oder ernstzunehmenderer Charakter als Volo:
+Mert ist kein seriöserer oder ernstzunehmenderer Charakter als {% include glossary_link.html title="Volo" name="Volothamp Geddarm" %}:
 
 <div class="infobox quest">
 <h3>Pferde fragen</h3>
@@ -173,7 +173,7 @@ include glossary_link.html title="Harfnern" name="Harfner" %} beitreten.</p>
 
 Natürlich war auch diese Einladung nicht nur ein freundlicher Besuch in der
 Oper, auch hier gibt es wieder ein paar Botengänge zu erledigen. Diesmal für
-die Harfner. Wir sollen ein sprechendes Pferd aufsuchen. Das Pferd kann man
+die {% include glossary_link.html title="Harfner" %}. Wir sollen ein sprechendes Pferd aufsuchen. Das Pferd kann man
 wohl mieten oder zumindest leihen, also kommt es viel herum und hat wechselnde
 Passagiere. Ein idealer Spion wohl. Reitet das Pferd ausreichend langsam, wird
 den Reitern ausreichend langweilig und sie beginnen Unterhaltungen, aus denen

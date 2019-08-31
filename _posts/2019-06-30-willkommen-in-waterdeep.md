@@ -1,5 +1,5 @@
 ---
-title: Willkommen in Waterdeep
+title: Willkommen in {% include glossary_link.html title="Waterdeep" %}
 subtitle: Episode 1
 author: Der Gelehrte Heinrich Faust
 dnd_date: 18. Ches 1492 DR
@@ -12,7 +12,7 @@ treffen. Wo er ist, folgen kurz darauf auch immer das Abenteuer und die
 Gefahr.
 
 Ich treffe meinen Freund im {% include glossary_link.html title="Yawning Portal"
-%}, diesem berüchtigtem Lokal. Sonst nicht zu übersehen wirkt Minsc
+%}, diesem berüchtigtem Lokal. Sonst nicht zu übersehen wirkt {% include glossary_link.html title="Minsc" %}
 unter den anderen Gästen plötzlich nicht mehr außergewöhnlich. Hier verkehren
 Abenteurer, es werden Waffen getragen, Harnische und die Gestalten sind von
 monströser Natur: Groß, kräftig, verschlagen und geheimnisvoll. Selbst der
@@ -20,7 +20,7 @@ Wirt schaut auf ein langes Leben von Abenteurerei zurück!
 
 <!-- more -->
 
-Minsc scheint nicht allein, am Tisch des riesigen Waldläufers sitzen noch zwei
+{% include glossary_link.html title="Minsc" %} scheint nicht allein, am Tisch des riesigen Waldläufers sitzen noch zwei
 Gestalten, auch diese Leute sind seine Freunde! Er stellt uns vor:
 
 Der eine ein Elf, mit seinen spitzen Ohren und der den Elfen eigenen Aura der
@@ -30,7 +30,7 @@ nur dünn maskierten Ablehnung denen die keine Elfen sind gegenüber.
 <h3>Vatras</h3>
 <p class="class">Waldläufer, Elf</p>
 <p>Aufgezogen von Wölfen im Wald in einer Stadt wie dieser nicht in seiner
-Heimat, doch ist es andererseits auch Waterdeep und es gibt nur wenige Städte
+Heimat, doch ist es andererseits auch {% include glossary_link.html title="Waterdeep" %} und es gibt nur wenige Städte
 wie *diese*.</p>
 </div>
 
@@ -77,7 +77,7 @@ machen wir dem Monster kurzen Prozess! Wir wähnen das Scharmützel zu Ende,
 doch schreitet der Wirt sogleich mit seiner Fackel an den Troll, ihn
 lichterloh in Flammen aufgehen zu lassen!
 
-In der kurzen Zeit, die ich in Waterdeep, nein, in dieser Kneipe zubringe,
+In der kurzen Zeit, die ich in {% include glossary_link.html title="Waterdeep" %}, nein, in dieser Kneipe zubringe,
 erfahre ich mehr als in den letzten Jahren voller Langeweile! Das Abenteuer
 hat mir gefehlt!
 
@@ -87,7 +87,7 @@ hat mir gefehlt!
 zu vernichten, will man ihn nicht nach kurzer Zeit erneut bekämpfen müssen.</p>
 </div>
 
-## Vermisst in Waterdeep
+## Vermisst in {% include glossary_link.html title="Waterdeep" %}
 
 Die Abenteurerei hat mich wieder! So überrascht mich auch nicht, dass,
 offenbar von unserer schlagkräftigen Darbietung beeindruckt, {% include
@@ -100,7 +100,7 @@ Abenteurer und gibt es etwas zu erledigen, wird zuvor nicht lange um den Brei
 getanzt!
 
 <div class="infobox quest">
-<h3>Floon Blagmaar suchen</h3>
+<h3>{% include glossary_link.html title="Floon Blagmaar" %} suchen</h3>
 
 <p>Ein Mann in seinem besten Alter, mit rot-blondem Haar und prinzlichen
 Gewändern, daran nicht zu verkennen. Zuletzt gesehen im Skewered Dragon ist
@@ -111,11 +111,11 @@ nach Erledigung des Auftrags.</p>
 </div>
 
 Meine neuen Freunde und ich zögern ebenso wenig und machen uns sogleich auf,
-den vermissten Freund des Volo zu suchen. Nicht weit sind wir gekommen, wird
+den vermissten Freund des {% include glossary_link.html title="Volo" name="Volothamp Geddarm" %} zu suchen. Nicht weit sind wir gekommen, wird
 uns bereits von der Stadtwache der Weg versperrt. Auf den Straßen scheint es
 einen Kampf gegeben zu haben - sechs sind tot, drei weitere sind verhaftet
 und wenn meine Lektüre mich nicht täuscht, winkt nach einer Ausschreitung
-dieser Art auch diesen in Waterdeep kein besseres Schicksal.
+dieser Art auch diesen in {% include glossary_link.html title="Waterdeep" %} kein besseres Schicksal.
 
 Umso mehr wir uns unserem Ziel im {% include glossary_link.html
 title="Dock Ward" %} nähern, umso mehr beginne ich, den Wohlgeruch des Trolls zu
@@ -126,7 +126,7 @@ nicht zuletzt wegen seines bunten Auftretens bekannt ist, das
 hier so gar nicht in zum restlichen Publikum zu passen scheint. Er wurde
 tatsächlich gesehen, wie er in Begleitung von {% include glossary_link.html
 title="Renaer Neverember" %}, dem Sohn des ehemaligen *Open Lord* von
-Waterdeep vor etwa drei Tagen von etwa fünf finsteren Gestalten überfallen und
+{% include glossary_link.html title="Waterdeep" %} vor etwa drei Tagen von etwa fünf finsteren Gestalten überfallen und
 entführt wurde! Die Spur führt weiter zu einem Lagerhaus in den Docks, das von
 außen von einer Schlange geziert wird. Wir machen uns auf den Weg!
 
@@ -163,7 +163,7 @@ meiner Heimat auch vermocht hätte:
 
 Im hinteren Teil des Lagerhauses finden wir eine bunt gewandete Person,
 zunächst noch gefesselt und geknebelt, kurz darauf dann doch befreit. Es
-stellt sich heraus dass wir hier keinen geringeren als Renaer Neverember vor
+stellt sich heraus dass wir hier keinen geringeren als {% include glossary_link.html title="Renaer Neverember" %} vor
 uns haben. Er geht davon aus, dass eigentlich *er* das Ziel der Entführung
 hätte sein sollen und dass man Floon wohl mit ihm verwechselt habe. Er selbst
 sei natürlich eine sehr wichtige Person, über die man vielleicht an den {%
@@ -173,7 +173,7 @@ haben:
 
 
 <div class="infobox hint">
-<h3>Floon Blagmaar suchen</h3>
+<h3>{% include glossary_link.html title="Floon Blagmaar" %} suchen</h3>
 
 <p>Floon ist in ein Versteck im Untergrund unter der Stadt verschleppt
 worden.</p>
