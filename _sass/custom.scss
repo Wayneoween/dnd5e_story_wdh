@@ -91,6 +91,14 @@
     }
 }
 
+summary {
+    cursor: pointer;
+    &::marker {
+        font-size: 18;
+        color: $grey-color;
+    }
+}
+
 #index {
     > ul {
       column-count: 3;
