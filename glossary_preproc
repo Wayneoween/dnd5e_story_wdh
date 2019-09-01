@@ -20,23 +20,28 @@ class GlossaryItem
 
     @fname = fname
     fcontent = YAML.load_file(fname)
+    # Slug is the file name without extension, e.g. "Volo"
     @slug = fname.gsub('_glossary/', '')\
                  .gsub(/\.md$/, '')\
                  .gsub('_', ' ')\
                  .titleize
+    # Title is e.g. "Volothamp Geddarm". This is optional and defaults to @slug
     @title = fcontent['title'] ||= @slug
+    # Link part is the hash part in /glossary/ for this glossary item,
+    # i.e. #volothamp+geddarm
     @link_part = "##{@title.downcase.gsub(' ', '+')}"
   end
 end
 
-all_items = Dir.glob('_glossary/*.md').map do |item_fname|
+all_glossary_items = Dir.glob('_glossary/*.md').map do |item_fname|
   GlossaryItem.new(item_fname)
 end
 
 markdown_fname = ARGV.first
 markdown_file = FrontMatterParser::Parser.parse_file(markdown_fname)
 
-all_items.each do |glossary_term|
+all_glossary_items.each do |glossary_term|
+  # We must only replace full words that are not enclosed in quotes
   markdown_file.content.gsub!(
     /\b(?!<")#{glossary_term.title}(?!")\b/,
     "{% include glossary_link.html title=\"#{glossary_term.title}\" %}"
@@ -47,6 +52,8 @@ all_items.each do |glossary_term|
   )
 end
 File.open(markdown_fname, 'w') do |output_file|
+  # We're writing this out step by step because FrontMaterParser.to_yaml
+  # does not reproduce the original input
   output_file.write(markdown_file.front_matter.to_yaml)
   output_file.write("---\n\n")
   output_file.write(markdown_file.content)
