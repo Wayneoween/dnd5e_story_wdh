@@ -8,14 +8,11 @@ includefile: characters
 {% for post in characters %}
   <li>
     <header>
-      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+      <h1 class="post-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h1>
     </header>
-    <p>{{ post.excerpt }}</p>
-    <ul class="actions">
-      {% if post.charsheet %}
-      <li><a href="{{ post.charsheet }}" class="button">Charakterbogen</a></li>
-      {% endif %}
-    </ul>
+    <div class="post-content">
+      {{ post.excerpt }}
+    </div>
   </li>
 {% endfor %}
 </ul>
