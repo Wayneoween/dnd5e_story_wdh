@@ -29,6 +29,9 @@ exclude:
   - vendor/ruby/
 
 collections:
+  characters:
+    output: true
+    layout: 'page'
   glossary:
     output: false
   quests:

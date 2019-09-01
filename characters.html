@@ -1,0 +1,19 @@
+---
+layout: home
+includefile: characters
+---
+
+{% assign characters = site.characters | sort: 'date' %}
+{% for post in characters %}
+  <article>
+    <header>
+      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+    </header>
+    <p>{{ post.excerpt }}</p>
+    <ul class="actions">
+      {% if post.charsheet %}
+      <li><a href="{{ post.charsheet }}" class="button">Charakterbogen</a></li>
+      {% endif %}
+    </ul>
+  </article>
+{% endfor %}
