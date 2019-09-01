@@ -1,0 +1,33 @@
+---
+layout: home
+includefile: quests
+---
+{% assign quests = site.quests | sort: 'date' %}
+{% assign open_quests = site.quests | where:'status','open' | sort %}
+{% assign done_quests = site.quests | where:'status','done' | sort %}
+
+<h2>Offene Quests</h2>
+<ul class="post-list">
+  {% for post in open_quests %}
+  <li class="post-content">
+    <header>
+      <h3>{{ post.title }}</h3>
+      <p><strong>Status:</strong> Offen<br /><strong>Belohnung:</strong> {{ post.reward }}</p>
+    </header>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
+
+<h2>Abgeschlossene Quests</h2>
+<ul class="post-list">
+  {% for post in done_quests %}
+  <li class="post-content">
+    <header>
+      <h3>{{ post.title }}</h3>
+      <p><strong>Status:</strong> abgeschlossen<br /><strong>Belohnung:</strong> {{ post.reward }}</p>
+    </header>
+    <p>{{ post.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
