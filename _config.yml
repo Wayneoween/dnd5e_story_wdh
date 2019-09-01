@@ -23,6 +23,7 @@ exclude:
   - Gemfile.lock
   - glossary_preproc
   - node_modules
+  - README.md
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
