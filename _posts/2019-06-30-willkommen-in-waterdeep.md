@@ -1,5 +1,5 @@
 ---
-title: Willkommen in {% include glossary_link.html title="Waterdeep" %}
+title: Willkommen in Waterdeep
 subtitle: Episode 1
 author: Der Gelehrte Heinrich Faust
 dnd_date: 18. Ches 1492 DR
