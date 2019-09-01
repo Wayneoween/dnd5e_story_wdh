@@ -3,7 +3,7 @@ title: Trautes Heim - Glück allein?
 subtitle: Episode 3
 author: Der Gelehrte Heinrich Faust
 dnd_date: 17. Ches 1492 DR
-...
+---
 
 Unser Haus scheint nicht ganz so allein zu sein wie wir dachten. Von der
 Wirtschaft, die vor uns hier drin war, haben sie uns nichts übrig gelassen

@@ -3,7 +3,7 @@ title: Halb Mann, halb Bart!
 subtitle: Episode 2
 author: Der Gelehrte Heinrich Faust
 dnd_date: 16. Ches 1492 DR
-...
+---
 
 Wir eilen in den Untergrund. Nicht des angenehmen Aromas in der Luft wegen,
 mehr weil die Zeit drängt, {% include glossary_link.html title="Floon" name="Floon Blagmaar" %}

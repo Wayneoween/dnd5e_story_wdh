@@ -2,7 +2,7 @@
 title: Langeweile
 author: Der Gelehrte Heinrich Faust
 dnd_date: Ches, 1492 DR
-...
+---
 
 Das Jahr ist 1492 DR, das Jahr der drei segelnden Schiffe. Nach meinen
 Erlebnissen der letzten Jahre und der Verluste, die ich habe ertragen müssen,

@@ -29,6 +29,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
+    front_matter_parser (0.2.1)
     gemoji (3.0.1)
     github-pages (198)
       activesupport (= 4.2.11.1)
@@ -243,6 +244,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  front_matter_parser
   github-pages
   jekyll-feed
   jekyll-seo

@@ -6,6 +6,8 @@
 # mentions in the post with links to the glossary page. This script aims to
 # produce idempotent results.
 #
+
+require 'front_matter_parser'
 require 'yaml'
 require 'active_support/core_ext/string/inflections'
 
@@ -32,17 +34,20 @@ all_items = Dir.glob('_glossary/*.md').map do |item_fname|
 end
 
 markdown_fname = ARGV.first
-markdown_content = ARGF.read
+markdown_file = FrontMatterParser::Parser.parse_file(markdown_fname)
+
 all_items.each do |glossary_term|
-  markdown_content.gsub!(
+  markdown_file.content.gsub!(
     /\b(?!<")#{glossary_term.title}(?!")\b/,
     "{% include glossary_link.html title=\"#{glossary_term.title}\" %}"
   )
-  markdown_content.gsub!(
+  markdown_file.content.gsub!(
     /\b(?!<")#{glossary_term.slug}(?!")\b/,
     "{% include glossary_link.html title=\"#{glossary_term.slug}\" name=\"#{glossary_term.title}\" %}"
   )
 end
 File.open(markdown_fname, 'w') do |output_file|
-  output_file.write(markdown_content)
+  output_file.write(markdown_file.front_matter.to_yaml)
+  output_file.write("---\n\n")
+  output_file.write(markdown_file.content)
 end
