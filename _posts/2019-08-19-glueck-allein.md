@@ -54,7 +54,7 @@ gedungen, eine Botschaft zu übermitteln:
 title="Emerald Enclave" %} ein, zu deren Niederlassung zu kommen. Wir sollen
 eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.</p>
 
-<p class="reward">Etwas Gold, Vatras könnte der {% include glossary_link.html title="Emerald Enclave" %} beitreten</p>
+<p class="reward">Etwas Gold, Vatras könnte der {% include glossary_link.html title="Emerald Enclave" %} beitreten.</p>
 </div>
 
 Weil wir offenbar nichts besseres zu tun haben als dahergelaufenen Tieren zu
@@ -113,7 +113,7 @@ Sachen Gefahr und Sicherheit für {% include glossary_link.html title="Waterdeep
 erklimmen.</p>
 
 <p class="reward">Etwas Gold, Melech könnte den {% include glossary_link.html
-title="Gray Hands" %} beitreten</p>
+title="Gray Hands" %} beitreten.</p>
 </div>
 
 Das klingt sehr anstrengend und nach einer Aufgabe für die jungen Leute und

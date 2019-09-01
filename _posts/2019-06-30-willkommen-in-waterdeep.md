@@ -31,7 +31,7 @@ nur dünn maskierten Ablehnung denen die keine Elfen sind gegenüber.
 <p class="class">Waldläufer, Elf</p>
 <p>Aufgezogen von Wölfen im Wald in einer Stadt wie dieser nicht in seiner
 Heimat, doch ist es andererseits auch {% include glossary_link.html title="Waterdeep" %} und es gibt nur wenige Städte
-wie *diese*.</p>
+wie <i>diese</i>.</p>
 </div>
 
 Der andere ist ein Tiefling! Das Abenteuer beginnt schon in der Wirtschaft,
