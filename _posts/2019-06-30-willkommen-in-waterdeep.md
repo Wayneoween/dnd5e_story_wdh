@@ -3,7 +3,7 @@ title: Willkommen in Waterdeep
 subtitle: Episode 1
 author: Der Gelehrte Heinrich Faust
 dnd_date: 18. Ches 1492 DR
-...
+---
 
 Die prächtige Stadt! Die Reise war beschwerlich, doch ich bleibe beflügelt vom
 Tatendrang, vom Suchen nach *mehr* und natürlich von der freudigen Erwartung,
