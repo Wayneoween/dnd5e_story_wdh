@@ -6,11 +6,11 @@ dnd_date: 16. Ches 1492 DR
 ---
 
 Wir eilen in den Untergrund. Nicht des angenehmen Aromas in der Luft wegen,
-mehr weil die Zeit drängt, {% include glossary_link.html title="Floon" name="Floon Blagmaar" %}
-zu retten! Die Schurken haben ihn noch,
-aber nicht mehr lange. Wir sind auf dem Weg. Der Weg ist nicht schwierig zu
-finden, gibt es doch überall diese praktischen gelben Markierungen, denen man
-nur folgen braucht, wenn man gewillt ist, dort hinzufinden, wo sie hinführen.
+mehr weil die Zeit drängt, Floon Blagmaar zu retten! Die Schurken haben ihn
+noch, aber nicht mehr lange. Wir sind auf dem Weg. Der Weg ist nicht schwierig
+zu finden, gibt es doch überall diese praktischen gelben Markierungen, denen
+man nur folgen braucht, wenn man gewillt ist, dort hinzufinden, wo sie
+hinführen.
 
 Weit kommen wir nicht, bis wir eine lustige Gestalt finden. Ein halber Mann,
 ein Gnom gar, der zur Hälfte aus seinem großen Kopf und zur anderen Hälfte
@@ -77,12 +77,12 @@ passieren, der Herr scheint nur mäßig brauchbares Bier zu brauen.
 
 ## Trautes Heim
 
-Die Freude über das Wiedersehen zwischen {% include glossary_link.html
-name="Volothamp Geddarm" title="Volo" %} und Floon ist groß, drückt sich aber
-nicht in Gold für uns aus, das scheint gerade knapp zu sein. Stattdessen
-erhalten wir etwas weniger mobiles - unser eigenes kleines Anwesen! Eine
-ehemalige Wirtschaft, jetzt unsere Unterkunft. Auch der zuvor bereits
-gerettete {% include glossary_link.html name="Renaer Neverember"
-title="Renaer" %} zeigt sich und zeigt sich auch erkenntlich und dankbar,
-indem er uns die sonst sicherlich unermesslich hohen Kosten für die
-Beurkundung unseres neuen Heims erstattet.
+Die Freude über das Wiedersehen zwischen
+{% include glossary_link.html name="Volothamp Geddarm" title="Volo" %} und Floon
+ist groß, drückt sich aber nicht in Gold für uns aus, das scheint gerade knapp
+zu sein. Stattdessen erhalten wir etwas weniger mobiles - unser eigenes kleines
+Anwesen! Eine ehemalige Wirtschaft, jetzt unsere Unterkunft. Auch der zuvor
+bereits gerettete {% include glossary_link.html name="Renaer Neverember" title="Renaer" %}
+zeigt sich und zeigt sich auch erkenntlich und dankbar, indem er uns die sonst
+sicherlich unermesslich hohen Kosten für die Beurkundung unseres neuen Heims
+erstattet.

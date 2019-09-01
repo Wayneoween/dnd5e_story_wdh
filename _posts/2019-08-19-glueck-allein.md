@@ -95,9 +95,9 @@ title="Blackstaff Tower" %} zu kommen. Auf dem Weg dort hin lassen wir uns
 aber nicht nehmen, unsere verdiente Belohnung mit der {% include glossary_link.html title="Emerald Enclave" %} neu zu
 verhandeln und direkt einzustreichen.
 
-Die Einladung kommt von {% include glossary_link.html title="Vajira Blackstaff"
-%}, einer Nachfolgerin des berühmten *Khelben Blackstaff*, über den ich schon
-das eine oder andere gelesen habe.
+Die Einladung kommt von {% include glossary_link.html title="Vajira Blackstaff" %},
+einer Nachfolgerin des berühmten *Khelben Blackstaff*, über den ich schon das
+eine oder andere gelesen habe.
 
 Natürlich folgen wir auch dieser Einladung, immerhin sind wir stets auf der
 Suche nach Abenteuer, neuen Erfahrungen und noch mehr Gold. Wir sollen einen

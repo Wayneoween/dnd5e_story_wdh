@@ -100,7 +100,7 @@ Abenteurer und gibt es etwas zu erledigen, wird zuvor nicht lange um den Brei
 getanzt!
 
 <div class="infobox quest">
-<h3>{% include glossary_link.html title="Floon Blagmaar" %} suchen</h3>
+<h3>Floon Blagmaar suchen</h3>
 
 <p>Ein Mann in seinem besten Alter, mit rot-blondem Haar und prinzlichen
 Gewändern, daran nicht zu verkennen. Zuletzt gesehen im Skewered Dragon ist
@@ -117,18 +117,16 @@ einen Kampf gegeben zu haben - sechs sind tot, drei weitere sind verhaftet
 und wenn meine Lektüre mich nicht täuscht, winkt nach einer Ausschreitung
 dieser Art auch diesen in {% include glossary_link.html title="Waterdeep" %} kein besseres Schicksal.
 
-Umso mehr wir uns unserem Ziel im {% include glossary_link.html
-title="Dock Ward" %} nähern, umso mehr beginne ich, den Wohlgeruch des Trolls zu
-missen.
+Umso mehr wir uns unserem Ziel im {% include glossary_link.html title="Dock
+Ward" %} nähern, umso mehr beginne ich, den Wohlgeruch des Trolls zu missen.
 Doch auch das gehört wohl zum Abenteuer hinzu. Wir fragen im *Skewered Dragon*
-nach, wo der Gesuchte {% include glossary_link.html title="Floon" name="Floon Blagmaar" %}
-nicht zuletzt wegen seines bunten Auftretens bekannt ist, das
-hier so gar nicht in zum restlichen Publikum zu passen scheint. Er wurde
-tatsächlich gesehen, wie er in Begleitung von {% include glossary_link.html
-title="Renaer Neverember" %}, dem Sohn des ehemaligen *Open Lord* von
-{% include glossary_link.html title="Waterdeep" %} vor etwa drei Tagen von etwa fünf finsteren Gestalten überfallen und
-entführt wurde! Die Spur führt weiter zu einem Lagerhaus in den Docks, das von
-außen von einer Schlange geziert wird. Wir machen uns auf den Weg!
+nach, wo der Gesuchte Floon nicht zuletzt wegen seines bunten Auftretens
+bekannt ist, das hier so gar nicht in zum restlichen Publikum zu passen
+scheint. Er wurde tatsächlich gesehen, wie er in Begleitung von {% include glossary_link.html title="Renaer Neverember" %},
+dem Sohn des ehemaligen *Open Lord* von {% include glossary_link.html title="Waterdeep" %}
+vor etwa drei Tagen von etwa fünf finsteren Gestalten überfallen und entführt
+wurde! Die Spur führt weiter zu einem Lagerhaus in den Docks, das von außen von
+einer Schlange geziert wird. Wir machen uns auf den Weg!
 
 In das Lagerhaus führt kein Weg hinein, die Tür ist versperrt und auf unser
 naives Klopfen wird uns nicht geöffnet. Wir sehen uns um, niemand scheint
@@ -166,14 +164,14 @@ zunächst noch gefesselt und geknebelt, kurz darauf dann doch befreit. Es
 stellt sich heraus dass wir hier keinen geringeren als {% include glossary_link.html title="Renaer Neverember" %} vor
 uns haben. Er geht davon aus, dass eigentlich *er* das Ziel der Entführung
 hätte sein sollen und dass man Floon wohl mit ihm verwechselt habe. Er selbst
-sei natürlich eine sehr wichtige Person, über die man vielleicht an den {%
-include glossary_link.html title="Stein von Golorr" %} herankommen könnte, der
+sei natürlich eine sehr wichtige Person, über die man vielleicht an den
+{% include glossary_link.html title="Stein von Golorr" %} herankommen könnte, der
 sich im Besitz seines Vaters befindet. Er vermutet, wohin sie Floon gebracht
 haben:
 
 
 <div class="infobox hint">
-<h3>{% include glossary_link.html title="Floon Blagmaar" %} suchen</h3>
+<h3>Floon Blagmaar suchen</h3>
 
 <p>Floon ist in ein Versteck im Untergrund unter der Stadt verschleppt
 worden.</p>
