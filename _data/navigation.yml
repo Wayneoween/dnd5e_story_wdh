@@ -5,5 +5,7 @@ main:
     url: /characters/
   - title: Glossar
     url: /glossary/
+  - title: Quests
+    url: /quests/
   - title: GitHub
     url: https://github.com/Wayneoween/dnd5e_story_wdh
