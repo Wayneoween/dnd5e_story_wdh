@@ -4,8 +4,9 @@ includefile: characters
 ---
 
 {% assign characters = site.characters | sort: 'date' %}
+<ul class="post-list">
 {% for post in characters %}
-  <article>
+  <li>
     <header>
       <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
     </header>
@@ -15,5 +16,6 @@ includefile: characters
       <li><a href="{{ post.charsheet }}" class="button">Charakterbogen</a></li>
       {% endif %}
     </ul>
-  </article>
+  </li>
 {% endfor %}
+</ul>
