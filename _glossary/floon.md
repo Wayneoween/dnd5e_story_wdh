@@ -3,5 +3,5 @@ type: Person
 title: Floon Blagmaar
 ...
 
-Ein gebürtiger Waterdavianer. Anfang dreißig. Er scheint ein gutaussehender
-Kerl, aber nicht sehr intelligent zu sein.
+Ein guter Freund von {% include glossary_link.html name="Volothamp Geddarm" title="Volo" %}.
+Die beiden teilen ihren sonderbaren Kleidergeschmack. Nicht sehr hell, aber freundlich.
