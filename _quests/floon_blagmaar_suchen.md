@@ -10,4 +10,4 @@ ihn an seinem schillernden Auftreten und seiner schicken Frisur.
 
 **Nachtrag**: Volo hat leider gar nicht so viel Gold. Unsere hundert Goldstücke
 pro Person haben wir nicht bekommen. Stattdessen besitzen wir nun ein noch recht
-herunter gekommenes „Anwesen̈́“.
+herunter gekommenes „Anwesen“.
