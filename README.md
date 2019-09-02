@@ -24,15 +24,15 @@ da die Person unter diesem Namen bekannt ist.
 Die Datei *muss* einen `type` im YAML-Front Matter haben, der unter
 `_includes/icons` eine Entsprechung bei den Icons findet.
 
-Die Datei *kann* Weiterhin *kann* ein `title` Attribut haben, in der dann der
-ganze Name *Volothamp Geddarm* ausgeschrieben drin steht.
+Die Datei *kann* weiterhin ein `title` Attribut haben, in der dann der ganze
+Name *Volothamp Geddarm* ausgeschrieben drin steht.
 
 Um im Code einen Verweis auf den Glossar einzubringen, verwenden wir `{%
 include glossary_link.html title="Langes Lemma" name="Kurzes Lemma" %}`, wobei
-`name` nicht angegeben werden muss, wenn das lange Lemma und das kurze
-identisch sind. Bei manuellem Anlegen dieser Links muss darauf geachtet werden,
-dass zwischen `{%` und `%}` kein Zeilenumbruch enthalten ist, da sonst das
-Hilfsscript Dinge kaputtmacht.
+`name` nicht angegeben werden muss, wenn das lange Lemma und das kurze bis auf
+die Großschrift identisch sind. Bei manuellem Anlegen dieser Links muss darauf
+geachtet werden, dass zwischen `{%` und `%}` kein Zeilenumbruch enthalten ist,
+da sonst das Hilfsscript Dinge kaputtmacht.
 
 Damit nicht alle Lemmas von Hand im Fließtext eines Beitrags verlinkt werden müssen,
 gibt es das Hilfsscript `glossary_preproc.rb`. Dieses Script akzeptiert als erstes
