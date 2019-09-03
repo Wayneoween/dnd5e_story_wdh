@@ -13,6 +13,8 @@ ihrer Entspannung sonst so kaufen! Meine Nachfrage bei der Schankmaid bleibt
 leider ähnlich ergebnislos wie meine Bestellung eines großen Bierkrugs für mich
 und meine Freunde.
 
+<!-- more -->
+
 Unser Freund {% include glossary_link.html title="Volo" name="Volothamp Geddarm" %} scheint hier zu wohnen - natürlich ist auch er hier. Wir sind
 nicht überrascht, schließlich sind wir hier, ihn zu treffen. Er hat einen
 Freund an seiner Seite, diesmal einen Zwerg, den er uns als Stonesgate
