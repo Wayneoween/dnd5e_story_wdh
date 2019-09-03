@@ -1,8 +1,8 @@
 ---
 title: Pferde fragen
 status: abgeschlossen
-layout: quest
 reward: Etwas Gold vermutlich. Fibblestix und Heinrich könnten den Harfnern beitreten.
+layout: page
 ---
 
 Wir sollen ein sprechendes Pferd  über die aktuellen Pläne und Machenschaften

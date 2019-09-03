@@ -2,8 +2,8 @@
 title: Eine kleine Vogelscheuche
 status: abgeschlossen
 reward: Etwas Gold vermutlich. Vatras könnte der Emerald Enclave beitreten.
+layout: page
 ---
-
 
 Eine Katze lädt Vatras im Namen der {% include glossary_link.html title="Emerald Enclave" %}
 ein, zu deren Niederlassung zu kommen. Wir sollen eine lästige Vogelscheuche im Norden vor der Stadt beseitigen.

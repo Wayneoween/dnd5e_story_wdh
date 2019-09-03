@@ -111,7 +111,7 @@ eigentlich für Kräuter?! Ein Taschentuch sollen wir stehlen. Wir überlegen un
 ein paar Pläne, wie wir das machen können. Bei der Gelegenheit finden wir auch
 heraus, dass einfach ein neues, unbenutztes, Taschentuch dieser Qualität zu
 kaufen nicht besonders teuer und sicherlich auch weniger ekelerregend wäre. Wir
-sollen aber auch nicht fragne, wofür die Harfner das Taschentuch wollen. Nun
+sollen aber auch nicht fragen, wofür die Harfner das Taschentuch wollen. Nun
 gut. Wir haben jetzt Optionen und Pläne.
 
 Am nächsten Morgen, es ist nun der 20. Ches, hole ich gleich in der Früh mein
