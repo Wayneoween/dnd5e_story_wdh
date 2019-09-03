@@ -1,6 +1,7 @@
 ---
 title: Pferde fragen
-status: open
+status: abgeschlossen
+layout: quest
 reward: Etwas Gold vermutlich. Fibblestix und Heinrich könnten den Harfnern beitreten.
 ---
 

@@ -36,4 +36,5 @@ collections:
   glossary:
     output: false
   quests:
-    output: false
+    output: true
+    layout: 'page'

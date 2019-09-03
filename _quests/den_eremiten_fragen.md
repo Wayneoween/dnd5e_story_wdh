@@ -1,6 +1,6 @@
 ---
 title: Den Eremiten um Weisheit bitten
-status: done
+status: abgeschlossen
 reward: Etwas Gold vermutlich. Melech könnte den Grey Hands beitreten.
 ---
 

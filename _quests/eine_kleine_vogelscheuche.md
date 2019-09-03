@@ -1,6 +1,6 @@
 ---
 title: Eine kleine Vogelscheuche
-status: done
+status: abgeschlossen
 reward: Etwas Gold vermutlich. Vatras könnte der Emerald Enclave beitreten.
 ---
 

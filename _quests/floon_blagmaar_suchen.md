@@ -1,7 +1,8 @@
 ---
 title: Floon Blagmaar suchen
-status: done
+status: abgeschlossen
 reward: 100 Goldstücke pro Person
+layout: quest
 ---
 
 Wir sind von {% include glossary_link.html title="Volo" %} angeheuert, seinen
