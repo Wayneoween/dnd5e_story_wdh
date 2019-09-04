@@ -2,7 +2,7 @@
 title: Eine kleine Vogelscheuche
 status: abgeschlossen
 reward: Etwas Gold vermutlich. Vatras könnte der Emerald Enclave beitreten.
-layout: page
+layout: quest
 ---
 
 Eine Katze lädt Vatras im Namen der {% include glossary_link.html title="Emerald Enclave" %}

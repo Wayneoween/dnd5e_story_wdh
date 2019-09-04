@@ -2,7 +2,7 @@
 title: Den Eremiten um Weisheit bitten
 status: abgeschlossen
 reward: Etwas Gold vermutlich. Melech könnte den Grey Hands beitreten.
-layout: page
+layout: quest
 ---
 
 Wir sollen für die {% include glossary_link.html title="Erzmagierin" name="Vajira" %}

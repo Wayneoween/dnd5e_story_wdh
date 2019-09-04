@@ -2,7 +2,7 @@
 title: Taschentücher stehlen
 status: offen
 reward: Etwas mehr Hilfe bei der Renovierung
-layout: page
+layout: quest
 ---
 
 Im Auftrag der Harfner sollen wir ein Taschentuch eines Edelmanns, Maester
