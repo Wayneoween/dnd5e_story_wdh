@@ -15,6 +15,15 @@ und meine Freunde.
 
 <!-- more -->
 
+<div class="infobox char">
+  <h3>Stonegate</h3>
+  <p class="class">Kleriker, Mensch</p>
+  <p>Nun, Heimatlos, zieht er umher um sich selber, seinem Mentor und seiner
+  Ausbildung als Kleriker zu beweisen. Dabei wacht er in gefährlichen Situationen
+  immer über einen sicheren Ausweg, zu jedem Zeitpunkt muss eine sichere Flucht
+  gewährleistest werden.</p>
+</div>
+
 Unser Freund {% include glossary_link.html title="Volo" name="Volothamp Geddarm" %} scheint hier zu wohnen - natürlich ist auch er hier. Wir sind
 nicht überrascht, schließlich sind wir hier, ihn zu treffen. Er hat einen
 Freund an seiner Seite, diesmal einen Zwerg, den er uns als Stonesgate
