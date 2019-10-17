@@ -46,7 +46,7 @@ und dann von dannen gehumpelt sein soll. Seinem Dafürhalten nach habe der Humpe
 nicht geraucht und geschmort, so muss er wohl vom Feuerball verschont geblieben
 sein.
 
-Ein Junge, nicht älter als zwölf, muss auch einige gesehen haben. Er berichtet von
+Ein Junge, nicht älter als zwölf, muss auch einiges gesehen haben. Er berichtet von
 einem dürren Kerl, einer Puppe gleich, der sich über die Dächer davon gemacht
 haben soll. Woher kommt mir bekannt vor, wie er diese Kreatur beschreibt? Der
 Junge erinnert sich auch, dass die Kreatur etwas verloren oder weg geworfen
