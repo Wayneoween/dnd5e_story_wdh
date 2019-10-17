@@ -1,6 +1,6 @@
 ---
 title: Taschentücher stehlen
-status: offen
+status: abgeschlossen
 reward: Etwas mehr Hilfe bei der Renovierung
 layout: quest
 ---
@@ -11,3 +11,6 @@ Frühlings-Sonnwende am besten, wenn der Edelmann an einem vorhergesagten Ort
 "unter dem Schatten des großen Trunkenbolds" das Spektakel beobachten wird. Das
 Taschentuch sollen wir dann einem Tiefling-Mädchen übergeben, was an einer
 anderen vorhergesagten Stelle in einer Kiste auf uns warten soll.
+
+**Nachtrag**: Wir haben 100 Gold bekommen und den Dank von
+{% include glossary_link.html title="Mert" %}.
